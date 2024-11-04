@@ -2,9 +2,10 @@
 
 ## Introduction
 
-This repository has been created since when I've had the interest to code my own website, it will have all questions that I had, alongside everything that I used as reference to write this, hope this helps to anyone that comes by this!
+After finishing my 3rd year in univeristy for my bachelor's degree for Computer Engineering and learning a lot, I've had an idea of a project that was a website, however as it is, people have to scour through google to find a reliable tutorial that explains the technical
+terms of what is each thing of web development, and what it is to learn, in this repository I will be sharing everything I've learned in my quest to build my very own website & mobile app, hopefully it helps whoever reaches this!
 
-## Website
+### Website
 
 1. How to create your own website?
   - Website Builders
