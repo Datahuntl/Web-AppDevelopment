@@ -54,6 +54,10 @@ How to make it look pretty?
 
 [Most used programming languages among developers worldwide as of 2024](https://www.statista.com/statistics/793628/worldwide-developer-survey-most-used-languages/)
 
+[How to Code a Website: A Step-by-Step Guide](https://bootcamp.cvn.columbia.edu/blog/how-to-code-a-website/)
+
+[How to code and launch a tiny website](https://tinyprojects.dev/guides/tiny_website)
+
 ### Back-End
 
 ### Front-End
